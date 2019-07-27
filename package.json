@@ -15,7 +15,9 @@
     "url": "https://github.com/chibat/chrome-extension-typescript-starter.git"
   },
   "dependencies": {
+    "@types/json2csv": "^4.5.0",
     "jquery": "^3.4.1",
+    "json2csv": "^4.5.2",
     "moment": "~2.24.0"
   },
   "devDependencies": {
